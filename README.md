@@ -6,6 +6,7 @@ Interagir avec le framework Laravel via la CLI <i>artisan</i> pour la gestion du
 Création de routes, de contrôleurs, et de modèles pour structurer et gérer la logique métier de l'application.<br> 
 Développement de vues dynamiques en utilisant le moteur de template Blade, pour une expérience utilisateur riche et interactive.<br> 
 Intégration et gestion des données à travers l'ORM <i>Eloquent</i> pour simplifier l'interaction avec la base de données.<br> 
+<br> 
 PHP LARAVEL - PostgreSQL - DOCKER <br>
 <br>
 <i>Projet collectif ADA Tech School 2024 - crédits Nora, Awen, Hidouen et Maud</i>
